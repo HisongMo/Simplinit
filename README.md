@@ -2,6 +2,7 @@
 
 ![Swift](https://img.shields.io/badge/Swift-5.0-orange.svg)
 [![CocoaPods](http://img.shields.io/cocoapods/v/Simplinit.svg)](https://cocoapods.org/pods/Simplinit)
+![Static Badge](https://img.shields.io/badge/stars-3.2k-brightgreen)
 
 ##### Super sweet syntactic sugar for Swift Component initializers.
 
