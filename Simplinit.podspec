@@ -1,8 +1,8 @@
 Pod::Spec.new do |s|
   s.name        = "Simplinit"
-  s.version     = "1.4"
+  s.version     = "1.5"
   s.summary     = "Help you create components faster"
-  s.homepage    = "https://github.com/Thered-key/HSongPopUpAssistant"
+  s.homepage    = "https://github.com/HisongMo/Simplinit"
   s.license     = { :type => "MIT" }
   s.authors     = { "HisongMo" => "wereaiyou@163.com" }
 
