@@ -11,7 +11,7 @@
 #### CocoaPods
   - Add the following to your Podfile: ``` pod 'Simplinit' ```
   - And ``` pod install ``` in your Terminal
-### 3.Use
+### 2.Use
   - just ``` import Simplinit ```
   - And you can use it like this
     ```swift
@@ -33,11 +33,11 @@
     btn.setTitleColor(.black, for: .normal)
     ```
 
-  ### 4.Author
+  ### 3.Author
 
   HisongMo(old: Thered-key)
 
-  ### 5.License
+  ### 4.License
 
   `Simplinit` is available under the MIT license. See the [LICENSE](LICENSE) file for more info.
 
