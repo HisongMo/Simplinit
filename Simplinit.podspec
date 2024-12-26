@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name        = "Simplinit"
-  s.version     = "1.3"
+  s.version     = "1.4"
   s.summary     = "Help you create components faster"
   s.homepage    = "https://github.com/Thered-key/HSongPopUpAssistant"
   s.license     = { :type => "MIT" }
